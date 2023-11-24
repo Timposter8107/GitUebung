@@ -47,5 +47,3 @@ Zeigt alle lokalen Branches an. Der aktive Branch wird durch einen Stern markier
 ## Aufgabe D
 
 [Link zu links.md](links.md)
-
-Tristan Evans - 24.11.2023
